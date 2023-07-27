@@ -7,4 +7,4 @@
 
 ## Lembrete
 Quando o terminal mostrar o QR code para o Expo, em baixo dele há um ip como por exemplo ```http://192.168.15.4 ``` esse é seu Ip local da rede.
-Pelo fato desse Ip mudar de rede para rede, é necessário alterar dentro do launching.json do back-end o Ip em que ele será executado para que os serviços consigam se comunicar
+Pelo fato desse Ip mudar de rede para rede, é necessário alterar, dentro do launching.json do back-end, o Ip em que ele será executado para que os serviços consigam se comunicar.
